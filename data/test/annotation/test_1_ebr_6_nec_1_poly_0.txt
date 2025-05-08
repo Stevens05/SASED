@@ -1,0 +1,11 @@
+0.50	0.79	clearthroat
+8.11	9.10	pageturn
+27.89	29.07	phone
+33.63	35.26	keyboard
+42.16	42.74	cough
+44.82	45.38	doorslam
+48.00	49.64	speech
+69.30	69.61	keys
+70.69	71.62	knock
+85.99	87.32	laughter
+99.88	100.49	drawer

@@ -1,0 +1,52 @@
+# Environnement virtuel
+venv/
+env/
+myenv/
+*.env
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+utils/__pycache__
+# Fichiers Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Cache
+.cache/
+*.log
+
+# Configs d'IDE
+.vscode/
+.idea/
+
+# Données ou fichiers temporaires
+*.sqlite3
+*.db
+*.h5
+*.bak
+*.tmp
+*.swp
+
+# Fichiers de test ou d’expérimentation
+.DS_Store
+Thumbs.db
+
+# Dossiers générés
+build/
+dist/
+*.egg-info/
+
+# Fichiers trop gros ou non pertinents
+*.dll
+*.so
+*.pyd
+*.exe
+*.zip
+*.tar.gz
+
+# Git LFS (optionnel mais prudent)
+*.lfs
+
+# Jupyter outputs (optionnel)
+**/.ipynb_checkpoints
