@@ -2,9 +2,6 @@ pandas
 numpy
 librosa
 joblib
-matplotlib
-seaborn
-scikit-learn
 fastapi
 python_multipart
 scipy
